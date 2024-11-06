@@ -1,2 +1,2 @@
 # code space induction test
- first submission
+ Activities in conjunction with the Code Space Induction
